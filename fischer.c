@@ -670,7 +670,7 @@ int columna(int c) //agregar .
         return 8;
     if (c == ':')
         return 9;
-    if (c == "'")
+    if (c == '\'')
         return 10;
     if (c == '=')
         return 11;
