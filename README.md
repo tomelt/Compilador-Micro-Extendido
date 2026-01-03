@@ -48,6 +48,6 @@ The compiler follows a standard pipeline architecture:
 Clone the repository and compile the source code:
 
 ```bash
-git clone [https://github.com/tomelt/Trabajo-Practico-Integrador.git](https://github.com/tomelt/Compilador-Micro-Extendido.git)
+git clone [https://github.com/tomelt/Compilador-Micro-Extendido.git](https://github.com/tomelt/Compilador-Micro-Extendido.git)
 cd Trabajo-Practico-Integrador
 gcc fischer.c -o compiler
