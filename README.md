@@ -1,16 +1,16 @@
-# Micro Extended Compiler 🚀
+# Micro Extended Compiler
 
 ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Academic](https://img.shields.io/badge/Context-UTN_Engineering-blue?style=for-the-badge)
 
-## 📋 Overview
+## Overview
 
 **Micro Extended Compiler** is a custom-built compiler for the "Micro" programming language, extended to support complex data types and advanced control structures. 
 
 Developed as a Final Integrative Project for the **Systems Engineering** degree at **UTN**, this project simulates the full lifecycle of language processing: from lexical analysis to intermediate code generation, emphasizing manual memory management and low-level optimization.
 
-## ✨ Key Features
+## Key Features
 
 Based on the core principles of Compiler Design, this project implements:
 
@@ -22,13 +22,13 @@ Based on the core principles of Compiler Design, this project implements:
 * **Advanced Data Types:** Extended the original grammar to support **Floating Point Arithmetic**, handling type checking and conversion .
 * **Memory Management:** Manual allocation and deallocation strategies to ensure memory efficiency during the compilation process .
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** C / C++
 * **Tools:** Flex (Lexer), Bison (Parser), GCC Compiler.
 * **Version Control:** Git.
 
-## ⚙️ How It Works
+## How It Works
 
 The compiler follows a standard pipeline architecture:
 
@@ -38,7 +38,7 @@ The compiler follows a standard pipeline architecture:
 4.  **Semantic Analyzer:** Checks for type compatibility (e.g., Float vs. Int) and scope.
 5.  **Code Generator:** Outputs the executable intermediate code.
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 * GCC Compiler
